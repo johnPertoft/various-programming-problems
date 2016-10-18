@@ -1,0 +1,3 @@
+To use:
+
+cat inputs/<input-example> | java (InfinityLoop|NaiveBacktrack|BruteForce)

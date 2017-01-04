@@ -1,0 +1,1 @@
+Solutions to most problems in [Cracking the Code Interview](https://www.amazon.co.uk/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=sr_1_3?ie=UTF8&qid=1480337620&sr=8-3&keywords=cracking+the+code+interview). Mostly for completionist's sake.
